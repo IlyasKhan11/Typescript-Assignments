@@ -1,0 +1,8 @@
+nstall Node.js, TypeScript and VS Code on your computer.
+
+
+1)https://nodejs.org/en
+
+2)https://www.typescriptlang.org/download
+
+3)https://code.visualstudio.com
